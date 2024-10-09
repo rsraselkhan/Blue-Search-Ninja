@@ -1,8 +1,8 @@
-API_ID       = 22981998
-API_HASH     = "ee0e5a596e2e61cac1fe1dbe793740cc"
-BOT_TOKEN    = "6736052548:AAEMWHFN9MUu4isC3l7l7UX49NAXuadSGFs"
+API_ID       = 20059313
+API_HASH     = "6e08481e12fc7956b9b4786c256ca80a"
+BOT_TOKEN    = "7495663378:AAEYOJyq8SoPq-xWrrOFxLsezPaqx58PWHg"
 SESSION      = "BQFerW4AfGzsUtPLITm0RuKsaJa8sPQpB9AIL18zgE3JBw97Mk7nJApgN0sAnTP9zpZVlcataPOAk93wqTo5mfzGVeETW0-hiePu1Ne068jUDX3NK1JQ6JErn_M6bhs6aBmtvA--Bnmt_lGpSw6vyxLoF34m366S4EbkmsKohwEFc1B59Qz9ImlKPM37ua-sKX7p_eCH6cQji2LGOuF95CkAPdGHZPc2c9BqZrnq4t7AUF8zHP_m7bfBlNDPHTe_aS6Ordp-SvuJ9r95Zmf3k7qpb902Ah_Nc5KzhRurNbdKy-XB2pUqWwOGoJOmp9q7c4FjR_Vkc-0xKpHh0a-zB1aDHRKIMAAAAAGRgAFEAQ"
-DATABASE_URI = "mongodb+srv://emotion0852:jCzALlSIFvHAgRKe@cluster0.o8jheuu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-LOG_CHANNEL  = -1002076387294
-ADMIN        = 6578386545
+DATABASE_URI = "mongodb+srv://swork8925:MzxirRRbtYjxy5OY@cluster0.bo1qi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+LOG_CHANNEL  = -1002424792604
+ADMIN        = 6966969676
 CHANNEL      = "@RS_Botz"
